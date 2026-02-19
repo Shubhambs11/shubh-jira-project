@@ -1,1 +1,1 @@
-## Testing Integration Jira with Github
+## Testing Integration : Jira and Github
